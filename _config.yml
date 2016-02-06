@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.8106383
+  lightness: 0.7723404
+  brandStrength: 1
+  brandColors:
+    - '#CDDEF3'
+    - '#767678'
+    - '#383A42'
+    - '#0C0E16'
+    - '#93B3A2'
+  rhythmicContrast: 0.6191489
+typography_spectrum: 0.1425532
+name: Donald Webdesign
